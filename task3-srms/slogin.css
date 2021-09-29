@@ -1,0 +1,54 @@
+body{
+    background: url(https://www.ast.org/Resource/EducationPresentationArchives/IW/2016/DevelopingtheProfessionalStudent/files/assets/common/page-substrates/page0004.jpg) no-repeat;
+  background-size: cover;
+  width:100%;
+    }
+    
+    .head1 h2{
+        font-size: 55px;
+        color: darkred;
+    }
+    
+    
+    .head1 h3{
+        font-size: 25px;
+        color: darkorange;
+    }
+    .u{
+        color:white;
+    }
+    
+    .head1 .btn1{
+        height: 50px;
+        width: 100px;
+        color: white;
+        font-size:20px;
+        position: center;
+        background-color:darkmagenta;
+        border-radius: 30px;
+        padding: 2px;
+        display: inline-block;
+        border-color: black;
+      
+       }
+       .head1 .btn1:hover{
+           background-color:darkorange;
+           cursor: pointer;
+       }
+       .head1 form{
+           margin-top: 2%;
+           font-size: 20px;
+       }
+    
+       .head1 .btn2{
+       
+        color: black;
+        font-size:20px;
+        position: center;
+        background-color:white;
+        border-radius: 5px;
+        padding: 2px;
+        display: inline-block;
+        border-color: black;
+      
+       }

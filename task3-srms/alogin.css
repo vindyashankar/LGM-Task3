@@ -1,0 +1,53 @@
+body{
+background: url(https://wallpaperaccess.com/full/16692.jpg) no-repeat;
+
+}
+
+.head1 h2{
+    font-size: 55px;
+    color: lightblue;
+}
+
+
+.head1 h3{
+    font-size: 25px;
+    color: white;
+}
+.u{
+    color:white;
+}
+
+.head1 .btn1{
+    height: 50px;
+    width: 100px;
+    color: white;
+    font-size:20px;
+    position: center;
+    background-color:blueviolet;
+    border-radius: 30px;
+    padding: 2px;
+    display: inline-block;
+    border-color: black;
+  
+   }
+   .head1 .btn1:hover{
+       background-color:darkgoldenrod;
+       cursor: pointer;
+   }
+   .head1 form{
+       margin-top: 2%;
+       font-size: 20px;
+   }
+
+   .head1 .btn2{
+   
+    color: black;
+    font-size:20px;
+    position: center;
+    background-color:white;
+    border-radius: 5px;
+    padding: 2px;
+    display: inline-block;
+    border-color: black;
+  
+   }

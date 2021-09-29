@@ -1,0 +1,31 @@
+body{
+  background: url(https://t3.ftcdn.net/jpg/01/89/22/48/360_F_189224831_4GlYd7ZjwOa1vYdQWFVlfUExwpDenZvi.jpg)no-repeat;
+   background-size: cover ;
+
+ }
+
+.head h3{
+    font-size: 55px;
+    color:whitesmoke;
+}
+
+.head .btn{
+    height: 100px;
+    width: 200px;
+    color: black;
+    font-size:25px;
+    position: center;
+    background-color:lightskyblue;
+    border-radius: 30px;
+    padding: 2px;
+    display: inline-block;
+    border-color: black;
+  
+   }
+   .head .btn:hover{
+       background-color:darkgoldenrod;
+       cursor: pointer;
+   }
+   .head form{
+       margin-top: 2%;
+   }

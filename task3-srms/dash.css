@@ -1,0 +1,183 @@
+body{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEBnb8mRD7KNH209Bg0urisEd_7seAfDEpjg&usqp=CAU) no-repeat;
+     background-size: cover;}
+    #header{
+        height: 10%;
+        width: 100%;
+        top: 2%;
+        background-color: none;
+        position: fixed;
+        color: whitesmoke;
+        font-size:45px;
+    }
+   #header a{
+       font-size: 25px;
+       color:whitesmoke
+     
+   }
+  #header button{
+      background-color: blue ;
+      height:50px;
+      width:100px;
+  }
+    #left_side{
+        height: 75%;
+        width: 15%;
+        top: 10%;
+        position: fixed;
+      
+    }
+  .btn{
+       height:50px;
+       width:200px;
+       margin-top: 50px;
+       margin-right: 10px;
+        color: black;
+        font-size:20px;
+        position: center;
+        background-color:yellowgreen;
+        border-radius: 10px;
+        padding: 2px;
+      
+        border-color: black;
+      
+       }
+
+       
+       .btn:hover{
+           cursor: pointer;
+           color: teal;
+           background-color: red ;
+       }
+    
+    #right_side{
+        height: 75%;
+        width: 80%;
+        background-color: wheat;
+        position: fixed;
+        left: 17%;
+        top: 21%;
+        color: red;
+        border: solid 1px black;
+    }
+
+     
+    #right_side .del{
+        font-size: 25px;
+        font-weight: 500;
+        margin-top: 10%;
+        color:darkred;
+    }
+
+    #right_side .add{
+        font-size: 20px;
+        font-weight: 300;
+      
+        color:darkred;
+    }
+
+    #right_side .edit{
+        font-size: 25px;
+        font-weight: 500;
+       margin-top: 15%;
+        color:darkred;
+    }
+
+    h4{
+        font-size: 25px;
+        color:darkred;
+    }
+
+    h5{
+        font-size: 20px;
+        color:darkred;
+    }
+
+
+    .btn1{
+        height: 30px;
+        width: 100px;
+        color: black;
+        font-size:20px;
+        position: center;
+        background-color:blueviolet;
+        border-radius: 10px;
+     padding:2px;
+        display: inline-block;
+        border-color: black;
+      
+       }
+       .btn1:hover{
+           background-color:darkgoldenrod;
+           cursor: pointer;
+       }
+
+       .btn2{
+   
+        color: black;
+        font-size:20px;
+        position: center;
+        background-color:white;
+        border-radius: 5px;
+        padding: 2px;
+        display: inline-block;
+        border-color: black;
+      
+       }
+
+       .btn3{
+   
+        color: black;
+        font-size:15px;
+        position: center;
+        background-color:white;
+        border-radius: 5px;
+        padding: 2px;
+        display: inline-block;
+        border-color: black;
+      
+       }
+       .btn5{
+   
+        color: black;
+        font-size:13px;
+        position: center;
+        background-color:white;
+        border-radius: 5px;
+        padding: 2px;
+        display: inline-block;
+        border-color: black;
+      
+       }
+
+       .btn4{
+        height: 30px;
+        width: 100px;
+        color: black;
+        font-size:15px;
+        position: center;
+        background-color:blueviolet;
+        border-radius: 10px;
+        padding: 2px;
+        display: inline-block;
+        border-color: black;
+      
+       }
+       .btn4:hover{
+           background-color:darkgoldenrod;
+           cursor: pointer;
+       }
+
+    #top_span{
+        top: 10%;
+        width: 80%;
+        left: 17%;
+        position: fixed;
+    }
+    #td{
+        border: 1px solid black;
+        padding-left: 2px;
+        text-align: left;
+        width: 200px;
+        color:red;
+    }
